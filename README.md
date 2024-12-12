@@ -28,9 +28,9 @@ Focused on customer transaction data to extract insights related to spending beh
 
 ### 3. Recency, Frequency, Monetary (RFM) Analysis
 
-#### Recency (R): Number of days since the customer's last purchase.
-#### Frequency (F): Total number of purchases made by the customer.
-#### Monetary (M): Total spending by the customer.
+### Recency (R): Number of days since the customer's last purchase.
+### Frequency (F): Total number of purchases made by the customer.
+### Monetary (M): Total spending by the customer.
 #### RFM values were calculated to quantify customer purchasing behavior.
 
 ### 4. Data Transformation
@@ -48,9 +48,9 @@ Determined the optimal number of clusters using the Silhouette Score, which meas
 ### 6. Results & Interpretation
 
 #### Identified three distinct customer segments:
-#### Major: High-value customers with frequent and recent purchases.
-#### Average: Moderate-value customers with regular but less frequent purchases.
-#### Churn: Customers who are at risk of leaving due to infrequent purchases or inactivity.
+### Major: High-value customers with frequent and recent purchases.
+### Average: Moderate-value customers with regular but less frequent purchases.
+### Churn: Customers who are at risk of leaving due to infrequent purchases or inactivity.
 
 ### 7. Actionable Insights
 
