@@ -54,11 +54,11 @@ Determined the optimal number of clusters using the Silhouette Score, which meas
 
 ### 7. Actionable Insights
 
-#### Major Segment:
+### Major Segment:
 Offer loyalty rewards, exclusive discounts, and personalized recommendations to retain these high-value customers.
-#### Average Segment:
+### Average Segment:
 Provide targeted promotions and incentives to increase purchase frequency and engagement.
-#### Churn Segment:
+### Churn Segment:
 Implement win-back campaigns, such as special offers or reminders, to re-engage these customers.
 
 ## Results
